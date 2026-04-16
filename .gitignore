@@ -4,6 +4,8 @@ __MACOSX/
 .AppleDouble
 .LSOverride
 Icon[]
+node_modules
+package-lock.json
 
 # Thumbnails
 ._*
