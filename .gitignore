@@ -6,6 +6,7 @@ __MACOSX/
 Icon[]
 node_modules
 package-lock.json
+chai-backend
 
 # Thumbnails
 ._*
